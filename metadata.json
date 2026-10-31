@@ -1,0 +1,6 @@
+{
+  "name": "Digital Surat Jalan & QR Code Validation - PT Mulia 41",
+  "description": "Sistem modul surat jalan digital PT Mulia 41 dengan integrasi QR code untuk validasi pengiriman real-time, verifikasi checkpoint pengemudi dan satpam, serta tanda tangan digital penerima.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
